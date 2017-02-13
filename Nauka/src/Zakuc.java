@@ -32,6 +32,23 @@ public class Zakuc
 		 * boolean (true i false)
 		 * 
 		 * final (mozna tylko raz przypisac wartosc)
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * MATMA
+		 * Math.sqrt = pierwiastek
+		 * Math.pow = potega
+		 * Math.sin
+		 * Math.cos
+		 * Math.tan
+		 * Math.atan
+		 * Math.PI
+		 * Math.E
 		 */
+		
+		
 	}
 }
