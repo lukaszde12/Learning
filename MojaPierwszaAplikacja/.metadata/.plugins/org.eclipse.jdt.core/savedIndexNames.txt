@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+/home/lukasz/workspace/MojaPierwszaAplikacja/.metadata/.plugins/org.eclipse.jdt.core
+4149985129.index
