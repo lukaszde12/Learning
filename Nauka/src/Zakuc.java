@@ -3,12 +3,13 @@
  * automat tworzy komentarz
  *
  */
-
+import java.util.Date;
 public class Zakuc
 {
 	public static void main (String[] args)
 	{ 
 		System.out.println("Nie powiemy 'Witaj, swiecie!'");
+		System.out.printf("%1$s %2$te %2$tB %2$tY", "Data:", new Date());
 		
 		// komentarze klepac czasem trzeba! Pisze sie je od znaku do konca wiersza!
 		
@@ -33,22 +34,11 @@ public class Zakuc
 		 * 
 		 * final (mozna tylko raz przypisac wartosc)
 		 * 
+		 * Scanner (czytanie danych, in.nextLine wczytanie linii)
+		 * Scanner in = new Scanner(Paths.get("mojplik.txt"));  wczytanie pliku
+		 * PrintWriter out = new PrintWriter("mojplik.txt");     zapisanie do pliku
 		 * 
 		 * 
-		 * 
-		 * 
-		 * 
-		 * MATMA
-		 * Math.sqrt = pierwiastek
-		 * Math.pow = potega
-		 * Math.sin
-		 * Math.cos
-		 * Math.tan
-		 * Math.atan
-		 * Math.PI
-		 * Math.E
 		 */
-		
-		
 	}
 }
