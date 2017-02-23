@@ -38,6 +38,20 @@ public class Zakuc
 		 * Scanner in = new Scanner(Paths.get("mojplik.txt"));  wczytanie pliku
 		 * PrintWriter out = new PrintWriter("mojplik.txt");     zapisanie do pliku
 		 * 
+		 * TABLICE
+		 * 
+		 * int[] a = new int[100];   deklaracja pol tablicy
+		 * int[] smallPrimes = { 2, 3, 5, 7, 11, 13 };   szybka deklaracja zmiennych
+		 * for (int i = 0; i < 100; i++) a[i] = i;  zapelnienie tablicy od 0-99
+		 * for (int i = 0; i < a.length; i++)   System.out.println(a[i]);  Info o liczbie elementow w tablicy
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
 		 * 
 		 */
 	}
