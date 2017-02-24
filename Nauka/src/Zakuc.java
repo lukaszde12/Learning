@@ -46,9 +46,12 @@ public class Zakuc
 		 * for (int i = 0; i < a.length; i++)   System.out.println(a[i]);  Info o liczbie elementow w tablicy
 		 * 
 		 * 
+		 * OBIEKTY
 		 * 
+		 * KLASA
+		 * nowy obiekt za pomoca KONSTRUKTORÓW (specjalna metoda inicjujaca obiekty)
 		 * 
-		 * 
+		 * METODY definiujemy poprzez Nazwa_Zmiennej.Nazwa_Metody(Parametry Metody);
 		 * 
 		 * 
 		 * 
