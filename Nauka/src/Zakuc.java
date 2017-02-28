@@ -1,9 +1,15 @@
+import java.util.Date;
+
 /**
  * 
- * automat tworzy komentarz
+ * automat tworzy komentarz klasy
+ * @author - dodaje info o autorze
+ * @znacznikDokumentacyjny - bedzie info w JavaDoc
+ * @version - 0.1
+ * @see <a href="www.google.com">info na stronie</a>  link www
  *
  */
-import java.util.Date;
+
 public class Zakuc
 {
 	public static void main (String[] args)
